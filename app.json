@@ -30,6 +30,7 @@
     "android": {
       "package": "com.tushar.shop_app",
       "versionCode": 1, 
+      "useNextNotificationsApi": true,
       "adaptiveIcon": {
         "foregroundImage": "./assets/places-adaptive.png",
         "backgroundColor": "#171717"
